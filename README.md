@@ -1,5 +1,9 @@
 # ResumeAI – ATS Resume Checker 🚀
+(
+## 🌐 Live Demo
 
+🚀 **Try the Application:** [ResumeAI – ATS Resume Checker](https://resumeai-ats-resume-checker-qkmvvcpf2curlmycsfqx5w.streamlit.app/)
+)
 An AI-powered resume analysis application built with Python and Streamlit that helps job seekers evaluate their resumes against target job descriptions, identify skill gaps, and improve their job-readiness.
 
 ## 📌 Project Overview
